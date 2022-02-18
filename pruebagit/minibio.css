@@ -1,0 +1,90 @@
+body{
+   background-color: rgba(240, 240, 227, 0.849);
+}
+.imagen{
+   background-image: url(ff.jpg);
+   width:150px;
+   height:150px;
+   border-radius:75px;
+   background-size:cover;
+   display:block;
+   margin:auto;
+}
+.box{
+   text-align:center;
+   font-family:sans-serif;
+   margin:auto;
+   display:block;
+   width:296px;
+   clear:both;
+   overflow:auto;
+}
+img{
+   width: 60px;
+   height: 50px;
+   padding:44px 7px 9px 61px;
+
+}
+.box .imagen1{
+   float:left;
+   width:21px;
+   background-color:rgba(240, 240, 227, 0.849);
+   padding: 10px 0px 5px 0px;
+
+}
+.box p{
+   font-size:14px;
+   padding:2px;
+   margin:3px;
+ 
+}
+.box a{
+   font-size:14px;
+   text-decoration: none;
+   line-height:10px;
+   padding: 10px 56px 0px 12px;
+   color:black;
+}
+.box h1{
+   margin: 10px;
+   
+}
+.box .enlace1 {
+   display: block;
+   margin: auto;
+   padding: 12px 50px 35px 140px;
+   width: 126px;
+   background-color: white;
+}
+.box .p2 {
+   padding: 1px 7px 12px 2px;
+}
+
+.box .enlace2{
+   display: block;
+   margin: 22px;
+   padding: 33px 5px 44px 142px;
+   width: 126px;
+   background-color: white;
+}
+.box img{
+   float:left;
+   clear:both;
+}
+.box .enlace3 {
+   width: 126px;
+   display: block;
+   margin: 23px;
+   padding: 43px 5px 44px 142px;
+   background-color:white;
+}
+.box .enlace4{
+   background-color:white;
+   display:block;
+   margin:6px;
+   width:126px;
+   margin: 22px;
+   padding: 33px 5px 44px 142px;
+
+}
+
